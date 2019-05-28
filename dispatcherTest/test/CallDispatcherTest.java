@@ -6,6 +6,11 @@ import org.junit.Test;
 
 import callCenter.Dispatcher;
 
+/**
+ * clase que hace las pruebas unitarias de acuerdo a lo pedido en la prueba
+ * @author Juan Pablo Camacho
+ *
+ */
 public class CallDispatcherTest {
 
 	@Test

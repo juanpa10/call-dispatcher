@@ -2,6 +2,11 @@ package callCenter;
 
 import java.util.Random;
 
+/**
+ * Clase que administra los hilos 
+ * @author Juan Pablo Camacho
+ *
+ */
 public class CallThread extends Thread {
 	private Thread t;
 

@@ -1,5 +1,10 @@
 package callCenter;
 
+/**
+ * DTO de empleado
+ * @author Juan Pablo Camacho
+ *
+ */
 public class Employee {
 	
 	private String type;
